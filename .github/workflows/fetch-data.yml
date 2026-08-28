@@ -1,0 +1,28 @@
+name: Daily Market Data Fetch
+
+on:
+  schedule:
+    # Runs daily at 7:30 AM EDT (11:30 AM UTC)
+    - cron: '30 11 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '16'
+
+      - name: Run fetch script
+        run: node fetch.js
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add live-data.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update market data" && git push)

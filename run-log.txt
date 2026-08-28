@@ -1,0 +1,576 @@
+
+[2026-08-04T01:54:57.850Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 15 (of 50 seen, 35 skipped as not finance-relevant)
+The Africa Report (RSS): kept 6 (of 10 seen, 4 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 48 (retention 14d, cap 300)
+
+[2026-08-04T01:57:13.299Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 15 (of 50 seen, 35 skipped as not finance-relevant)
+The Africa Report (RSS): kept 6 (of 10 seen, 4 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 48 (retention 14d, cap 300)
+
+[2026-08-04T01:58:37.668Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 15 (of 50 seen, 35 skipped as not finance-relevant)
+The Africa Report (RSS): kept 6 (of 10 seen, 4 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 48 (retention 14d, cap 300)
+
+[2026-08-04T02:00:28.555Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 15 (of 50 seen, 35 skipped as not finance-relevant)
+The Africa Report (RSS): kept 5 (of 10 seen, 5 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 48 (retention 14d, cap 300)
+
+[2026-08-04T02:10:46.046Z]
+Federal Reserve (RSS): FAILED — getaddrinfo ENOTFOUND www.federalreserve.gov
+Africanews (RSS): FAILED — getaddrinfo ENOTFOUND www.africanews.com
+The Africa Report (RSS): FAILED — getaddrinfo ENOTFOUND www.theafricareport.com
+World Bank (API): kept 0 — 20 sub-errors: World Bank NGA/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank NGA/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank ZAF/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank ZAF/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank KEN/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank KEN/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank EGY/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank EGY/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank GHA/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank GHA/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank MAR/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank MAR/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank ETH/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank ETH/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank TZA/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank TZA/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank CIV/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank CIV/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank AGO/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank AGO/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org
+BLS (API): kept 0 — 2 sub-errors: BLS LNS14000000: getaddrinfo ENOTFOUND api.bls.gov; BLS CUUR0000SA0: getaddrinfo ENOTFOUND api.bls.gov
+Total items after merge/prune: 48 (retention 14d, cap 300)
+
+[2026-08-04T07:18:27.715Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 15 (of 50 seen, 35 skipped as not finance-relevant)
+The Africa Report (RSS): kept 5 (of 10 seen, 5 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 48 (retention 14d, cap 300)
+
+[2026-08-04T17:19:40.405Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 10 (of 50 seen, 40 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 51 (retention 14d, cap 300)
+
+[2026-08-04T23:46:23.333Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 10 (of 50 seen, 40 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 54 (retention 14d, cap 300)
+
+[2026-08-05T03:39:09.146Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 10 (of 50 seen, 40 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 54 (retention 14d, cap 300)
+
+[2026-08-05T07:28:42.840Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 10 (of 50 seen, 40 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 57 (retention 14d, cap 300)
+
+[2026-08-06T02:54:36.093Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 11 (of 50 seen, 39 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 61 (retention 14d, cap 300)
+
+[2026-08-06T03:21:03.681Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 11 (of 50 seen, 39 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 61 (retention 14d, cap 300)
+
+[2026-08-06T03:31:05.256Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 11 (of 50 seen, 39 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 61 (retention 14d, cap 300)
+
+[2026-08-06T07:25:02.130Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 10 (of 50 seen, 40 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 62 (retention 14d, cap 300)
+
+[2026-08-06T22:53:44.197Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 9 (of 50 seen, 41 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 16 — 4 sub-errors: World Bank ZAF/FP.CPI.TOTL.ZG: Timeout fetching https://api.worldbank.org/v2/country/ZAF/indicator/FP.CPI.TOTL.ZG?format=json&per_page=10; World Bank KEN/NY.GDP.MKTP.KD.ZG: Timeout fetching https://api.worldbank.org/v2/country/KEN/indicator/NY.GDP.MKTP.KD.ZG?format=json&per_page=10; World Bank GHA/FP.CPI.TOTL.ZG: Timeout fetching https://api.worldbank.org/v2/country/GHA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=10; World Bank MAR/FP.CPI.TOTL.ZG: Timeout fetching https://api.worldbank.org/v2/country/MAR/indicator/FP.CPI.TOTL.ZG?format=json&per_page=10
+BLS (API): kept 2
+Total items after merge/prune: 69 (retention 14d, cap 300)
+
+[2026-08-06T23:01:06.362Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 9 (of 50 seen, 41 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 69 (retention 14d, cap 300)
+
+[2026-08-06T23:46:08.859Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 9 (of 50 seen, 41 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 69 (retention 14d, cap 300)
+
+[2026-08-07T01:00:22.593Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 9 (of 50 seen, 41 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 69 (retention 14d, cap 300)
+
+[2026-08-07T07:10:50.262Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 9 (of 50 seen, 41 skipped as not finance-relevant)
+The Africa Report (RSS): kept 3 (of 10 seen, 7 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 69 (retention 14d, cap 300)
+
+[2026-08-08T11:21:39.941Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 12 (of 50 seen, 38 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 13 — 7 sub-errors: World Bank KEN/FP.CPI.TOTL.ZG: Timeout fetching https://api.worldbank.org/v2/country/KEN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=10; World Bank EGY/FP.CPI.TOTL.ZG: Timeout fetching https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=10; World Bank MAR/NY.GDP.MKTP.KD.ZG: Timeout fetching https://api.worldbank.org/v2/country/MAR/indicator/NY.GDP.MKTP.KD.ZG?format=json&per_page=10; World Bank TZA/NY.GDP.MKTP.KD.ZG: Timeout fetching https://api.worldbank.org/v2/country/TZA/indicator/NY.GDP.MKTP.KD.ZG?format=json&per_page=10; World Bank TZA/FP.CPI.TOTL.ZG: Timeout fetching https://api.worldbank.org/v2/country/TZA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=10; World Bank CIV/FP.CPI.TOTL.ZG: Timeout fetching https://api.worldbank.org/v2/country/CIV/indicator/FP.CPI.TOTL.ZG?format=json&per_page=10; World Bank AGO/NY.GDP.MKTP.KD.ZG: Timeout fetching https://api.worldbank.org/v2/country/AGO/indicator/NY.GDP.MKTP.KD.ZG?format=json&per_page=10
+BLS (API): kept 2
+Total items after merge/prune: 79 (retention 14d, cap 300)
+
+[2026-08-09T21:43:32.810Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 11 (of 50 seen, 39 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 0 — 2 sub-errors: BLS LNS14000000: HTTP 503 for https://api.bls.gov/publicAPI/v2/timeseries/data/LNS14000000; BLS CUUR0000SA0: HTTP 503 for https://api.bls.gov/publicAPI/v2/timeseries/data/CUUR0000SA0
+Total items after merge/prune: 80 (retention 14d, cap 300)
+
+[2026-08-09T22:16:09.272Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 11 (of 50 seen, 39 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 0 — 2 sub-errors: BLS LNS14000000: HTTP 503 for https://api.bls.gov/publicAPI/v2/timeseries/data/LNS14000000; BLS CUUR0000SA0: HTTP 503 for https://api.bls.gov/publicAPI/v2/timeseries/data/CUUR0000SA0
+Total items after merge/prune: 80 (retention 14d, cap 300)
+
+[2026-08-09T23:13:24.217Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 11 (of 50 seen, 39 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 80 (retention 14d, cap 300)
+
+[2026-08-10T01:38:57.702Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 11 (of 50 seen, 39 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 80 (retention 14d, cap 300)
+
+[2026-08-10T07:52:47.444Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 12 (of 50 seen, 38 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 82 (retention 14d, cap 300)
+
+[2026-08-11T01:27:22.282Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 11 (of 50 seen, 39 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 19 — 1 sub-errors: World Bank CIV/FP.CPI.TOTL.ZG: HTTP 400 for https://api.worldbank.org/v2/country/CIV/indicator/FP.CPI.TOTL.ZG?format=json&per_page=10
+BLS (API): kept 2
+Total items after merge/prune: 87 (retention 14d, cap 300)
+
+[2026-08-11T16:07:02.073Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 9 (of 50 seen, 41 skipped as not finance-relevant)
+The Africa Report (RSS): kept 5 (of 10 seen, 5 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 95 (retention 14d, cap 300)
+
+[2026-08-12T05:01:46.124Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 11 (of 50 seen, 39 skipped as not finance-relevant)
+The Africa Report (RSS): kept 6 (of 10 seen, 4 skipped as not finance-relevant)
+World Bank (API): kept 16 — 4 sub-errors: World Bank NGA/NY.GDP.MKTP.KD.ZG: HTTP 400 for https://api.worldbank.org/v2/country/NGA/indicator/NY.GDP.MKTP.KD.ZG?format=json&per_page=10; World Bank EGY/NY.GDP.MKTP.KD.ZG: HTTP 400 for https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.MKTP.KD.ZG?format=json&per_page=10; World Bank MAR/FP.CPI.TOTL.ZG: Timeout fetching https://api.worldbank.org/v2/country/MAR/indicator/FP.CPI.TOTL.ZG?format=json&per_page=10; World Bank TZA/FP.CPI.TOTL.ZG: HTTP 400 for https://api.worldbank.org/v2/country/TZA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=10
+BLS (API): kept 2
+Total items after merge/prune: 98 (retention 14d, cap 300)
+
+[2026-08-12T05:46:35.421Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 11 (of 50 seen, 39 skipped as not finance-relevant)
+The Africa Report (RSS): kept 6 (of 10 seen, 4 skipped as not finance-relevant)
+World Bank (API): kept 19 — 1 sub-errors: World Bank NGA/NY.GDP.MKTP.KD.ZG: Timeout fetching https://api.worldbank.org/v2/country/NGA/indicator/NY.GDP.MKTP.KD.ZG?format=json&per_page=10
+BLS (API): kept 2
+Total items after merge/prune: 98 (retention 14d, cap 300)
+
+[2026-08-13T02:01:19.257Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 11 (of 50 seen, 39 skipped as not finance-relevant)
+The Africa Report (RSS): kept 6 (of 10 seen, 4 skipped as not finance-relevant)
+World Bank (API): kept 19 — 1 sub-errors: World Bank CIV/FP.CPI.TOTL.ZG: HTTP 400 for https://api.worldbank.org/v2/country/CIV/indicator/FP.CPI.TOTL.ZG?format=json&per_page=10
+BLS (API): kept 2
+Total items after merge/prune: 106 (retention 14d, cap 300)
+
+[2026-08-13T22:25:23.086Z]
+Federal Reserve (RSS): FAILED — getaddrinfo ENOTFOUND www.federalreserve.gov
+Africanews (RSS): FAILED — getaddrinfo ENOTFOUND www.africanews.com
+The Africa Report (RSS): FAILED — getaddrinfo ENOTFOUND www.theafricareport.com
+World Bank (API): kept 0 — 20 sub-errors: World Bank NGA/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank NGA/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank ZAF/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank ZAF/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank KEN/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank KEN/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank EGY/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank EGY/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank GHA/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank GHA/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank MAR/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank MAR/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank ETH/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank ETH/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank TZA/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank TZA/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank CIV/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank CIV/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank AGO/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank AGO/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org
+BLS (API): kept 0 — 2 sub-errors: BLS LNS14000000: getaddrinfo ENOTFOUND api.bls.gov; BLS CUUR0000SA0: getaddrinfo ENOTFOUND api.bls.gov
+Total items after merge/prune: 104 (retention 14d, cap 300)
+
+[2026-08-13T23:27:15.699Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 13 (of 50 seen, 37 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 17 — 3 sub-errors: World Bank ZAF/NY.GDP.MKTP.KD.ZG: Timeout fetching https://api.worldbank.org/v2/country/ZAF/indicator/NY.GDP.MKTP.KD.ZG?format=json&per_page=10; World Bank ZAF/FP.CPI.TOTL.ZG: Timeout fetching https://api.worldbank.org/v2/country/ZAF/indicator/FP.CPI.TOTL.ZG?format=json&per_page=10; World Bank AGO/FP.CPI.TOTL.ZG: HTTP 400 for https://api.worldbank.org/v2/country/AGO/indicator/FP.CPI.TOTL.ZG?format=json&per_page=10
+BLS (API): kept 2
+Total items after merge/prune: 114 (retention 14d, cap 300)
+
+[2026-08-14T03:13:16.691Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 13 (of 50 seen, 37 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 114 (retention 14d, cap 300)
+
+[2026-08-14T07:14:53.125Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 14 (of 50 seen, 36 skipped as not finance-relevant)
+The Africa Report (RSS): kept 5 (of 10 seen, 5 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 118 (retention 14d, cap 300)
+
+[2026-08-14T07:16:10.232Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 14 (of 50 seen, 36 skipped as not finance-relevant)
+The Africa Report (RSS): kept 5 (of 10 seen, 5 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 118 (retention 14d, cap 300)
+
+[2026-08-16T02:52:15.394Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 13 (of 50 seen, 37 skipped as not finance-relevant)
+The Africa Report (RSS): kept 6 (of 10 seen, 4 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 119 (retention 14d, cap 300)
+
+[2026-08-16T03:31:43.572Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): FAILED — read ECONNRESET
+The Africa Report (RSS): kept 6 (of 10 seen, 4 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 119 (retention 14d, cap 300)
+
+[2026-08-16T23:34:05.194Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 11 (of 50 seen, 39 skipped as not finance-relevant)
+The Africa Report (RSS): kept 6 (of 10 seen, 4 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 116 (retention 14d, cap 300)
+
+[2026-08-17T01:22:42.365Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 11 (of 50 seen, 39 skipped as not finance-relevant)
+The Africa Report (RSS): kept 6 (of 10 seen, 4 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 116 (retention 14d, cap 300)
+
+[2026-08-18T21:26:32.144Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 5 (of 50 seen, 45 skipped as not finance-relevant)
+The Africa Report (RSS): kept 5 (of 10 seen, 5 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 85 (retention 14d, cap 300)
+
+[2026-08-18T21:31:06.943Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 5 (of 50 seen, 45 skipped as not finance-relevant)
+The Africa Report (RSS): kept 5 (of 10 seen, 5 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 105 (retention 14d, cap 300)
+
+[2026-08-19T01:10:49.766Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 5 (of 50 seen, 45 skipped as not finance-relevant)
+The Africa Report (RSS): kept 5 (of 10 seen, 5 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 105 (retention 14d, cap 300)
+
+[2026-08-19T07:20:42.529Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 5 (of 50 seen, 45 skipped as not finance-relevant)
+The Africa Report (RSS): kept 3 (of 10 seen, 7 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 102 (retention 14d, cap 300)
+
+[2026-08-20T07:25:45.577Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 7 (of 50 seen, 43 skipped as not finance-relevant)
+The Africa Report (RSS): kept 3 (of 10 seen, 7 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 106 (retention 14d, cap 300)
+
+[2026-08-21T02:28:24.128Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 13 (of 50 seen, 37 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 112 (retention 14d, cap 300)
+
+[2026-08-21T03:16:23.986Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 13 (of 50 seen, 37 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 112 (retention 14d, cap 300)
+
+[2026-08-21T16:09:29.998Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 14 (of 50 seen, 36 skipped as not finance-relevant)
+The Africa Report (RSS): kept 5 (of 10 seen, 5 skipped as not finance-relevant)
+World Bank (API): kept 19 — 1 sub-errors: World Bank CIV/NY.GDP.MKTP.KD.ZG: Timeout fetching https://api.worldbank.org/v2/country/CIV/indicator/NY.GDP.MKTP.KD.ZG?format=json&per_page=10
+BLS (API): kept 2
+Total items after merge/prune: 115 (retention 14d, cap 300)
+
+[2026-08-22T02:15:11.884Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 14 (of 50 seen, 36 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 113 (retention 14d, cap 300)
+
+[2026-08-22T15:39:01.099Z]
+Federal Reserve (RSS): FAILED — getaddrinfo ENOTFOUND www.federalreserve.gov
+Africanews (RSS): FAILED — getaddrinfo ENOTFOUND www.africanews.com
+The Africa Report (RSS): FAILED — getaddrinfo ENOTFOUND www.theafricareport.com
+World Bank (API): kept 0 — 20 sub-errors: World Bank NGA/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank NGA/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank ZAF/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank ZAF/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank KEN/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank KEN/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank EGY/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank EGY/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank GHA/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank GHA/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank MAR/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank MAR/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank ETH/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank ETH/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank TZA/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank TZA/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank CIV/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank CIV/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank AGO/NY.GDP.MKTP.KD.ZG: getaddrinfo ENOTFOUND api.worldbank.org; World Bank AGO/FP.CPI.TOTL.ZG: getaddrinfo ENOTFOUND api.worldbank.org
+BLS (API): kept 0 — 2 sub-errors: BLS LNS14000000: getaddrinfo ENOTFOUND api.bls.gov; BLS CUUR0000SA0: getaddrinfo ENOTFOUND api.bls.gov
+Total items after merge/prune: 111 (retention 14d, cap 300)
+
+[2026-08-23T02:01:23.297Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 14 (of 50 seen, 36 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 113 (retention 14d, cap 300)
+
+[2026-08-23T07:54:45.856Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 14 (of 50 seen, 36 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 113 (retention 14d, cap 300)
+
+[2026-08-24T02:39:14.407Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 12 (of 50 seen, 38 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 113 (retention 14d, cap 300)
+
+[2026-08-24T07:10:17.690Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 12 (of 50 seen, 38 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 113 (retention 14d, cap 300)
+
+[2026-08-24T23:03:07.907Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 9 (of 50 seen, 41 skipped as not finance-relevant)
+The Africa Report (RSS): kept 7 (of 10 seen, 3 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 116 (retention 14d, cap 300)
+
+[2026-08-25T01:33:51.824Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 9 (of 50 seen, 41 skipped as not finance-relevant)
+The Africa Report (RSS): kept 7 (of 10 seen, 3 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 116 (retention 14d, cap 300)
+
+[2026-08-25T23:14:12.585Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 8 (of 50 seen, 42 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 19 — 1 sub-errors: World Bank ZAF/NY.GDP.MKTP.KD.ZG: Timeout fetching https://api.worldbank.org/v2/country/ZAF/indicator/NY.GDP.MKTP.KD.ZG?format=json&per_page=10
+BLS (API): kept 2
+Total items after merge/prune: 113 (retention 14d, cap 300)
+
+[2026-08-25T23:46:08.477Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 8 (of 50 seen, 42 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 113 (retention 14d, cap 300)
+
+[2026-08-26T01:16:09.607Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 8 (of 50 seen, 42 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 113 (retention 14d, cap 300)
+
+[2026-08-26T09:03:34.597Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 8 (of 50 seen, 42 skipped as not finance-relevant)
+The Africa Report (RSS): kept 5 (of 10 seen, 5 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 112 (retention 14d, cap 300)
+
+[2026-08-26T09:31:08.917Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 8 (of 50 seen, 42 skipped as not finance-relevant)
+The Africa Report (RSS): kept 5 (of 10 seen, 5 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 111 (retention 14d, cap 300)
+
+[2026-08-26T19:07:43.736Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 9 (of 50 seen, 41 skipped as not finance-relevant)
+The Africa Report (RSS): kept 5 (of 10 seen, 5 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 110 (retention 14d, cap 300)
+
+[2026-08-26T19:08:05.929Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 9 (of 50 seen, 41 skipped as not finance-relevant)
+The Africa Report (RSS): kept 5 (of 10 seen, 5 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 110 (retention 14d, cap 300)
+
+[2026-08-26T19:16:08.595Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 9 (of 50 seen, 41 skipped as not finance-relevant)
+The Africa Report (RSS): kept 5 (of 10 seen, 5 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 110 (retention 14d, cap 300)
+
+[2026-08-26T20:01:06.631Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 9 (of 50 seen, 41 skipped as not finance-relevant)
+The Africa Report (RSS): kept 5 (of 10 seen, 5 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 110 (retention 14d, cap 300)
+
+[2026-08-27T02:07:21.372Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 10 (of 50 seen, 40 skipped as not finance-relevant)
+The Africa Report (RSS): kept 5 (of 10 seen, 5 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 110 (retention 14d, cap 300)
+
+[2026-08-27T10:25:09.490Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 10 (of 50 seen, 40 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 112 (retention 14d, cap 300)
+
+[2026-08-27T19:19:14.710Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 10 (of 50 seen, 40 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 110 (retention 14d, cap 300)
+
+[2026-08-27T19:19:20.052Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 10 (of 50 seen, 40 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 110 (retention 14d, cap 300)
+
+[2026-08-27T20:01:08.666Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 10 (of 50 seen, 40 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 110 (retention 14d, cap 300)
+
+[2026-08-27T20:46:06.515Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 10 (of 50 seen, 40 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 109 (retention 14d, cap 300)
+
+[2026-08-28T00:31:07.116Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 10 (of 50 seen, 40 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 109 (retention 14d, cap 300)
+
+[2026-08-28T01:16:05.695Z]
+Federal Reserve (RSS): kept 20
+Africanews (RSS): kept 10 (of 50 seen, 40 skipped as not finance-relevant)
+The Africa Report (RSS): kept 4 (of 10 seen, 6 skipped as not finance-relevant)
+World Bank (API): kept 20
+BLS (API): kept 2
+Total items after merge/prune: 109 (retention 14d, cap 300)
