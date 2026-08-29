@@ -48,3 +48,56 @@ Then open http://localhost:5173
 - **The Africa Report**: African business and economics
 - **World Bank**: Economic indicators for major African economies
 - **BLS**: US labor and inflation statistics
+
+## Adding new data sources
+
+To add a new data source:
+
+1. **RSS feeds**: Add a new source to the `FEEDS` array in `fetch.js`, specify the URL and any parsing rules
+2. **APIs**: Add a new data-pulling function to `fetch.js` following the World Bank/BLS pattern
+3. **Classification**: Update `classify.js` if you need new sector/industry/news-type keywords for the new source
+4. **Finance filter**: If the source is general news, add it to the `isFinanceRelevant()` filter to avoid noise
+
+See `fetch.js` for detailed patterns on how each source type is integrated.
+
+## Technical architecture
+
+- **`fetch.js`** — Daily fetcher that pulls from all 5 sources, parses/classifies data, merges with existing `live-data.json`, outputs `live-data.js` for the frontend
+- **`classify.js`** — Keyword-based country/sector/industry/news-type tagger (no AI, free, always works)
+- **`app.js`** — Frontend renderer: loads `live-data.js`, filters/groups by country/sector/industry, renders the UI
+- **`index.html`, `styles.css`** — Static UI
+- **`.github/workflows/fetch-data.yml`** — GitHub Actions workflow that runs `fetch.js` daily at 7:30 AM EDT and publishes to GitHub Pages
+- **`docs/`** — Built feed files deployed to GitHub Pages (auto-generated, don't edit directly)
+
+## How the update cycle works
+
+1. GitHub Actions runs at 7:30 AM EDT every day
+2. Runs `fetch.js` to pull fresh data from all 5 sources
+3. Fetched data is merged with `live-data.json` (14-day retention, 300-item cap)
+4. `live-data.js` is generated and committed to the repo
+5. Workflow copies everything to `docs/` folder
+6. GitHub Pages auto-updates with the latest feed
+
+## Next steps: Cloud deployment & additional sources
+
+For more detailed information on engineering, limitations, and extending the system:
+
+**See [`README-live.md`](README-live.md)** — Contains:
+- Detailed breakdown of each data source and why others were excluded
+- Known limitations and workarounds
+- How to swap in AI summarization/classification later
+- Manual fetch/scheduling options
+- Legal/ToS considerations for different sources
+
+**Potential sources to add** (blocked/deferred in current version):
+- **IMF DataMapper** — Economic indicators (try from your network if behind IP restrictions)
+- **BEA (Bureau of Economic Analysis)** — US economic data (requires free API key registration)
+- **OECD SDMX** — OECD economic indicators (complex query format, deferred for v1)
+- **Reuters** — Would need paid Reuters Connect license
+- **Bloomberg/FT/Yahoo Finance** — Would need paid data subscriptions
+
+**Cloud next steps:**
+- Deploy `fetch.js` to AWS Lambda / Google Cloud Functions / Azure Functions for automated cloud-based fetching
+- Store `live-data.json` in cloud storage (S3, GCS, Azure Blob) for resilience
+- Use cloud APIs directly instead of Node.js local script
+- Add Anthropic Claude API for real AI summarization/classification (drop-in replacement for keyword matching)
