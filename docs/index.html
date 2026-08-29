@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Sprout — Market Intelligence (Live)</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="phone">
+
+    <header class="app-header">
+      <div class="app-header-title">
+        <h1>Market Intelligence</h1>
+        <p id="updated-label">Feed · Updated just now</p>
+      </div>
+      <div class="sample-badge live-badge" title="Real headlines/data from open sources, extractive summaries only (no AI rewriting), keyword-based classification. See README-live.md.">LIVE</div>
+    </header>
+
+    <div class="controls">
+      <div class="search-row">
+        <input id="search-input" type="text" placeholder="Search country, company, ticker…" autocomplete="off" />
+      </div>
+
+      <div class="pill-row" id="pill-row"></div>
+
+      <div class="view-toggle">
+        <button class="view-btn active" data-view="feed">Feed</button>
+        <button class="view-btn" data-view="category">By Country / Exchange</button>
+      </div>
+    </div>
+
+    <main id="feed" class="feed"></main>
+
+    <nav class="bottom-nav">
+      <button class="nav-item" data-nav="portfolio">
+        <span class="nav-label">Portfolio</span>
+      </button>
+      <button class="nav-item" data-nav="invest">
+        <span class="nav-label">Invest</span>
+      </button>
+      <button class="nav-item active" data-nav="feed">
+        <span class="dot"></span>
+        <span class="nav-label">Feed</span>
+      </button>
+      <button class="nav-item" data-nav="profile">
+        <span class="nav-label">Profile</span>
+      </button>
+    </nav>
+  </div>
+
+  <!-- Story detail modal -->
+  <div id="modal-backdrop" class="modal-backdrop hidden">
+    <div class="modal" role="dialog" aria-modal="true">
+      <button class="modal-close" id="modal-close" aria-label="Close">×</button>
+      <div id="modal-body" class="modal-body"></div>
+    </div>
+  </div>
+
+  <div id="toast" class="toast hidden"></div>
+
+  <script src="live-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
