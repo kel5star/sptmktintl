@@ -33,6 +33,6 @@ jobs:
           cp index.html docs/
           cp styles.css docs/
           cp app.js docs/
-          cp live-data.json docs/live-data.js
+          cp live-data.js docs/
           git add docs/
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: publish feed to GitHub Pages" && git push)
