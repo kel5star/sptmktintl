@@ -4,13 +4,13 @@ A lightweight, automated market intelligence feed that pulls real financial news
 
 ## View the live feed
 
-**👉 [Open the live feed](https://kel5star.github.io/sptmktintl/)**
+**[Open the live feed](https://kel5star.github.io/sptmktintl/)**
 
 The feed updates automatically every day at 7:30 AM EDT with real market data from 5 sources.
 
-## How it works
+## How it works **!!!INTERNAL BETA!!!**
 
-- **Fetches from 5 sources**: Federal Reserve, Africanews, The Africa Report, World Bank, BLS
+- **Fetches from 5 sources**
 - **Auto-classifies** each item by country, sector, industry, and news type using keyword matching
 - **Updates daily** via GitHub Actions — `live-data.json` is committed automatically
 - **Zero dependencies** — runs on Node.js with built-in modules only
