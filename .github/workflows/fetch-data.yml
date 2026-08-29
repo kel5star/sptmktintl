@@ -26,3 +26,13 @@ jobs:
           git config --local user.name "GitHub Action"
           git add live-data.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update market data" && git push)
+
+      - name: Build and publish to GitHub Pages
+        run: |
+          mkdir -p docs
+          cp index.html docs/
+          cp styles.css docs/
+          cp app.js docs/
+          cp live-data.json docs/live-data.js
+          git add docs/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: publish feed to GitHub Pages" && git push)
