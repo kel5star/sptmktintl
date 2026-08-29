@@ -1,4 +1,4 @@
-# Sprout Market Intelligence — Live Feed
+Live Feed
 
 A lightweight, automated market intelligence feed that pulls real financial news and data daily.
 
