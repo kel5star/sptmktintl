@@ -8,6 +8,12 @@ A lightweight, automated market intelligence feed that pulls real financial news
 
 The feed updates automatically every day at 7:30 AM EDT with real market data from 5 sources.
 
+### Automation control
+
+**[🎮 View Automation Guide](AUTOMATION.md)** — Learn how to turn automatic updates on/off, manually trigger fetches, or check automation status.
+
+The workflow can be paused/resumed anytime without deleting or breaking anything — useful for testing, maintenance, or cost control.
+
 ## How it works **!!!INTERNAL BETA!!!**
 
 - **Fetches from 5 sources**
