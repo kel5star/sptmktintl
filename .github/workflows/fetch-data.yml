@@ -12,6 +12,12 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    # Check if automation is enabled via ENABLE_AUTO_FETCH secret
+    # To disable: set ENABLE_AUTO_FETCH to 'false' in repository secrets
+    # To enable: set ENABLE_AUTO_FETCH to 'true' (or delete the secret to default to true)
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      secrets.ENABLE_AUTO_FETCH != 'false'
     steps:
       - uses: actions/checkout@v4
 
