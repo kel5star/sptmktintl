@@ -10,7 +10,7 @@ The feed updates automatically every day at 7:30 AM EDT with real market data fr
 
 ### Automation control
 
-**[🎮 View Automation Guide](AUTOMATION.md)** — Learn how to turn automatic updates on/off, manually trigger fetches, or check automation status.
+**[View Automation Guide](AUTOMATION.md)** — Learn how to turn automatic updates on/off, manually trigger fetches, or check automation status.
 
 The workflow can be paused/resumed anytime without deleting or breaking anything — useful for testing, maintenance, or cost control.
 
